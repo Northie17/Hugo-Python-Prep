@@ -1,0 +1,5 @@
+print ("H      H  JJJJJJ  N     N")
+print ("H      H     J    N N   N")
+print ("HHHHHHHH     J    N  N  N")
+print ("H      H     J    N   N N")
+print ("H      H  JJJJ    N     N")
